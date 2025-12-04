@@ -1,0 +1,174 @@
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.AssemblyReference.cache
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.Admin_TrangChu.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_PhanCongCa.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_QuanLyHoaDon.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_QuanLyKhachHang.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_QuanLyNhanVien.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.ChonVaiTro.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.DangNhapChung.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Form_ChiTietDonHangInput.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.FrmChiTietHoaDon.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Chung.DoiMK.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Frm_TaiKhoan.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NVKho_TrangChu.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_NhaCungCap.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_HangHoa.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_TaoPhieuNhap.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_ThongKe.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_TraCuuLichSu.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NV_TrangChu.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.UC_ThongTinHoaDon.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.UC_TrangChu.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.ShowReportHD.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.cache
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ReaLTaiizor.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\EnvDTE.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\stdole.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.xml
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ReaLTaiizor.xml
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.Up2Date
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+C:\Users\Danh\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ReaLTaiizor.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\EnvDTE.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\stdole.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.xml
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ReaLTaiizor.xml
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.AssemblyReference.cache
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.Admin_TrangChu.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_PhanCongCa.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_QuanLyHoaDon.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_QuanLyKhachHang.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Admin.UserControls.UC_QuanLyNhanVien.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.ChonVaiTro.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.DangNhapChung.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Form_ChiTietDonHangInput.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.FrmChiTietHoaDon.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Chung.DoiMK.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.Frm_TaiKhoan.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NVKho_TrangChu.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_NhaCungCap.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_HangHoa.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_TaoPhieuNhap.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_ThongKe.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NhapKho.UC_TraCuuLichSu.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.NV_TrangChu.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.UC_ThongTinHoaDon.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.UC_TrangChu.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.GUI.ShowReportHD.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.cache
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.Up2Date
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Danh\Desktop\Final .net\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
