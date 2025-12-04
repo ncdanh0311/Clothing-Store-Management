@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|c:\\users\\danh\\desktop\\hethongbanmaylanh\\hethongbanmaylanh\\hethongbanmaylanh\\gui\\banhang\\uc_thongtinhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\banhang\\uc_thongtinhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\gui\\banhang\\uc_thongtinhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\banhang\\uc_thongtinhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\gui\\banhang\\rp_hoadon.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\banhang\\rp_hoadon.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\gui\\banhang\\nv_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\banhang\\nv_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\gui\\banhang\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\banhang\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\gui\\banhang\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\banhang\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\gui\\admin\\uc_phancongca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\admin\\uc_phancongca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\bll\\phancongcabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\bll\\phancongcabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\dal\\phancongcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\dal\\phancongcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\hethongbanmaylanh\\gui\\admin\\uc_phancongca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF3E86-A430-47DD-9750-B02B9D924E8D}|HeThongBanMayLanh\\HeThongBanMayLanh.csproj|solutionrelative:hethongbanmaylanh\\gui\\admin\\uc_phancongca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rp_HoaDon.rpt",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\rp_HoaDon.rpt",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\BanHang\\rp_HoaDon.rpt",
+              "ToolTip": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\rp_HoaDon.rpt",
+              "RelativeToolTip": "HeThongBanMayLanh\\GUI\\BanHang\\rp_HoaDon.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOsSURBVDhPrZPbS1xXFIe/vc85c9EzahyNlzSaGCNqjfahxtCkLT6UtBB6hZA\u002BlDw0aMhLodA\u002BFNLS5A9o6Y0g9CFQEnolNUgofYi0pSmkSY3RxkacUI0Tm8w4jnNm5szMmbP7MMbOjD52wYLN2vv3sdbmt\u002BD/Ctc9hFJKFNc\u002BHb3eL1xxsri2aQhx9cQLj50uqbluA7C3BPjZdxOHDI\u002B82NUaxKNLAIQoecJixCIcSdxGiRGP8I4ce7ErUXxfUBWFoWv07aqnd1c9PTvreHRHsCS31lTg9xodLY2Bd4ThvPTh95MNxfoNQAAhIJHKEomnN2QqkyNY5Wegq6lWk\u002BKsodyDn1yeMh9qNwWyNqqUG1MA96IWY1dCpLMOoD5gJTv8UFcK1ECKgkiKwlkKQVZk\u002BFFd4j5LbN8aYG9XI33t9Qx0NdFUa9ZW\u002BozApkB9DcRah5oUpKTFNJNctL7li8TnzGk3aQ6aNAdNttWZVPoNPLq\u002BzijtUNeQUgCFzmJujNn8LLfENFPJG3yzeo4Lya\u002BZyU2jaQJNE5SZANl69I6v\u002B8SU2TY0Vx2zZKVSElcpMqSZyFznp/Q4eS2HFy\u002BO6zCWuMCZ5Y9YcZZBKAofVATEkxpMZ\u002BWQ69onf5hQr90OK6KrDqPLl7iWvEY6Y7NwP4wVTeDEHHLRHL8t/MobN4\u002BTyK9s6FA/c7zZn8lka\u002BJJt2Fm0a6bupvh9FcRjC3txBpCxBp/h4BC5CX2HzaZcIb27bt58/Bb1HiqEWK5BCgPdOh/9bd5f\u002B55hMu9Lfp0/24/y4kcodla5m/sIRrqJKUlkY7ECTsMVOxjaM8wT9Ttx6f7ygYGaZrmn\u002B\u002B/\u002B\u002BX44lJ8tK1eXXm6y\u002BCZPj8\u002BQ5Bc6MS99Rzi7160tJfHt/Xz\u002BuAxjjz1KlIWHFG\u002BmlIIoUZGhnPPD3ZGFmP2UsxK8fI\u002Bk/3dfhq3GKilHdhjRwmm2njvlVMcPnCkYHIh1q2lr\u002B095bbxahoeQ6eywktHk4\u002BWeoMKn06Nt5a3207R7utGKbW\u002BNZom0DVBEW\u002BT1ROCvCuIWJDNS6oDOrWmjimrwJUopcoFyCJMCTCV1VhJCX6ZsZmPuui6RmudoKfZIbpiMf9Pgjv34oTC/2Um55SMXPKj58cXn1SIj\u002BO2pyVpq4CTzwu/losHvfG78dXESk1VhW2afsfjNdxinVD5888OtJ\u002BjHGhZVlMe7WDecYcSKbvHStrywbI1MTkTPjsXenDVyaQXcjvt1ZHh4Vyxrjj\u002BBTzQeWp0atADAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-11-30T09:45:13.585Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_ThongTinHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs",
+              "ToolTip": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs",
+              "RelativeToolTip": "HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:58:01.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_ThongTinHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs",
+              "ToolTip": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs [Design]",
+              "RelativeToolTip": "HeThongBanMayLanh\\GUI\\BanHang\\UC_ThongTinHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:57:45.004Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NV_TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\NV_TrangChu.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\BanHang\\NV_TrangChu.cs",
+              "ToolTip": "F:\\NgDuyLinh\\OneDrive - HUFI\\\u0110\u1ED3 \u00E1n\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\NV_TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:57:31.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\FrmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\BanHang\\FrmChiTietHoaDon.cs",
+              "ToolTip": "F:\\NgDuyLinh\\OneDrive - HUFI\\\u0110\u1ED3 \u00E1n\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\FrmChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:57:20.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmInHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\FrmInHoaDon.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\BanHang\\FrmInHoaDon.cs",
+              "ToolTip": "F:\\NgDuyLinh\\OneDrive - HUFI\\\u0110\u1ED3 \u00E1n\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\BanHang\\FrmInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:53:54.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhanCongCaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\BLL\\PhanCongCaBLL.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\BLL\\PhanCongCaBLL.cs",
+              "ToolTip": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\BLL\\PhanCongCaBLL.cs",
+              "RelativeToolTip": "HeThongBanMayLanh\\BLL\\PhanCongCaBLL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T11:21:43.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhanCongCaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\DAL\\PhanCongCaDAL.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\DAL\\PhanCongCaDAL.cs",
+              "ToolTip": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\DAL\\PhanCongCaDAL.cs",
+              "RelativeToolTip": "HeThongBanMayLanh\\DAL\\PhanCongCaDAL.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv3EAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:48:31.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_PhanCongCa.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\Admin\\UC_PhanCongCa.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\Admin\\UC_PhanCongCa.cs",
+              "ToolTip": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\Admin\\UC_PhanCongCa.cs",
+              "RelativeToolTip": "HeThongBanMayLanh\\GUI\\Admin\\UC_PhanCongCa.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAYwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:17:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_PhanCongCa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\HeThongBanMayLanh\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\Admin\\UC_PhanCongCa.cs",
+              "RelativeDocumentMoniker": "HeThongBanMayLanh\\GUI\\Admin\\UC_PhanCongCa.cs",
+              "ToolTip": "F:\\NgDuyLinh\\OneDrive - HUFI\\\u0110\u1ED3 \u00E1n\\HeThongBanMayLanh\\HeThongBanMayLanh\\GUI\\Admin\\UC_PhanCongCa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:16:50.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
