@@ -25,10 +25,33 @@ namespace ShopQuanAo.GUI
         {
             InitializeComponent();
         }
-     
+
         private void ThongTinHoaDon_Load(object sender, EventArgs e)
         {
-            DgvHoaDon.DataSource = sp.XemHoaDon(SessionManager.MaNVHienTai, DateTime.Now);
+            LoadHoaDon();
+        }
+
+        private void LoadHoaDon()
+        {
+            DataTable dtHoaDon = sp.XemHoaDon(SessionManager.MaNVHienTai, DateTime.Now);
+
+            if (dtHoaDon == null || dtHoaDon.Rows.Count == 0)
+            {
+                dtHoaDon = sp.GetThongTinHoaDon();
+
+                if (dtHoaDon != null && dtHoaDon.Rows.Count > 0)
+                {
+                    MessageBox.Show("Hiện chưa có hóa đơn nào cho ca làm việc hiện tại. Đang hiển thị toàn bộ hóa đơn để bạn lựa chọn.",
+                        "Không có hóa đơn", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("Không có hóa đơn nào để hiển thị.", "Không có hóa đơn", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+
+            DgvHoaDon.DataSource = dtHoaDon;
+            btnInDH.Enabled = dtHoaDon != null && dtHoaDon.Rows.Count > 0;
         }
 
         private void DgvHoaDon_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -45,8 +68,20 @@ namespace ShopQuanAo.GUI
         {
             try
             {
+                if (DgvHoaDon.CurrentRow == null)
+                {
+                    MessageBox.Show("Vui lòng chọn hóa đơn trước khi in.", "Chưa chọn hóa đơn", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
                 int maDH = int.Parse(DgvHoaDon.CurrentRow.Cells[0].Value.ToString());
                 DataTable dtChiTiet = sp.GetInHoaDon(maDH);
+
+                if (dtChiTiet == null || dtChiTiet.Rows.Count == 0)
+                {
+                    MessageBox.Show("Không tìm thấy dữ liệu hóa đơn để in.", "Lỗi In Hóa Đơn", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
 
                 ShowReportHD view = new ShowReportHD();
                 view.Text = $"Thông tin hóa đơn {maDH}";
